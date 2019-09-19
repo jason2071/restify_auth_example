@@ -1,0 +1,29 @@
+{
+  "name": "restify_auth_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jason2071@github.com/jason2071/restify_auth_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason2071/restify_auth_example/issues"
+  },
+  "homepage": "https://github.com/jason2071/restify_auth_example#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^5.7.1",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^8.4.0",
+    "restify-errors": "^8.0.1",
+    "restify-jwt-community": "^1.1.0"
+  }
+}
