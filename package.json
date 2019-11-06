@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jason2071/restify_auth_example#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "mongoose-timestamp": "^0.6.0",
     "restify": "^8.4.0",
     "restify-errors": "^8.0.1",
